@@ -1,5 +1,4 @@
 var http = require('http');
-var discbot = require('./')
 
 //create a server object:
 http.createServer(function (req, res) {
